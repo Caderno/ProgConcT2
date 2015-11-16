@@ -16,7 +16,6 @@ int main (int argc, char **argv) {
 	PPMImage imgIn, imgOut;
 	char in[20], out[20];
 	struct timespec clockStart, clockEnd;
-	double tempototal = 0;
 
 	strcpy(in, "image.ppm");
 	strcpy(out, "out_image.ppm");
