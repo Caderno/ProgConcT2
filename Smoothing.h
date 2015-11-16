@@ -1,3 +1,13 @@
+/**
+*	Programação Concorrente - SSC0143 - 2 Semestre de 2015
+*	Prof. Dr. Júlio Cezar Estrella
+*	Trabalho 2 - Smoothing de imagem utilizando MPI+OMP
+*  
+*	Alunos:
+*		Thiago Ledur Lima		- 8084214
+*		Rodrigo Neves Bernardi	- 8066395	
+**/
+
 #ifndef _SMOOTHING_H_
 #define _SMOOTHING_H_
 
